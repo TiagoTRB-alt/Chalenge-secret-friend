@@ -136,9 +136,9 @@ ul {
 
 .result-list {
     margin-top: 15px;
-    color: #05DF05;
+    color: var(--color-primary);
     font-size: 22px;
-    font-weight: bold;
+    font-weight: bolder;
     text-align: center;
 }
 
